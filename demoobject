@@ -1,5 +1,72 @@
 {
-  "name": "John Doe",
-  "age": 30,
-  "email": "johndoe@example.com"
+  "name" :"Asad ullah",
+"email":"asadullah@gmail.com",
+"following":"158",
+"followers":"100"
+  "playlists": [
+    {
+      "name": "Pop Hits",
+      "image": "https://example.com/images/pop_hits.jpg",
+      "songs": [
+        { "title": "Song 1", "image": "https://example.com/images/song1.jpg" },
+        { "title": "Song 2", "image": "https://example.com/images/song2.jpg" },
+        { "title": "Song 3", "image": "https://example.com/images/song3.jpg" },
+        { "title": "Song 4", "image": "https://example.com/images/song4.jpg" },
+        { "title": "Song 5", "image": "https://example.com/images/song5.jpg" },
+        { "title": "Song 6", "image": "https://example.com/images/song6.jpg" },
+        { "title": "Song 7", "image": "https://example.com/images/song7.jpg" },
+        { "title": "Song 8", "image": "https://example.com/images/song8.jpg" },
+        { "title": "Song 9", "image": "https://example.com/images/song9.jpg" },
+        { "title": "Song 10", "image": "https://example.com/images/song10.jpg" }
+      ]
+    },
+    {
+      "name": "Rock Classics",
+      "image": "https://example.com/images/rock_classics.jpg",
+      "songs": [
+        { "title": "Song A", "image": "https://example.com/images/songa.jpg" },
+        { "title": "Song B", "image": "https://example.com/images/songb.jpg" },
+        { "title": "Song C", "image": "https://example.com/images/songc.jpg" },
+        { "title": "Song D", "image": "https://example.com/images/songd.jpg" },
+        { "title": "Song E", "image": "https://example.com/images/songe.jpg" },
+        { "title": "Song F", "image": "https://example.com/images/songf.jpg" },
+        { "title": "Song G", "image": "https://example.com/images/songg.jpg" },
+        { "title": "Song H", "image": "https://example.com/images/songh.jpg" },
+        { "title": "Song I", "image": "https://example.com/images/songi.jpg" },
+        { "title": "Song J", "image": "https://example.com/images/songj.jpg" }
+      ]
+    },
+{
+      "name": "Rock Classics",
+      "image": "https://example.com/images/rock_classics.jpg",
+      "songs": [
+        { "title": "Song A", "image": "https://example.com/images/songa.jpg" },
+        { "title": "Song B", "image": "https://example.com/images/songb.jpg" },
+        { "title": "Song C", "image": "https://example.com/images/songc.jpg" },
+        { "title": "Song D", "image": "https://example.com/images/songd.jpg" },
+        { "title": "Song E", "image": "https://example.com/images/songe.jpg" },
+        { "title": "Song F", "image": "https://example.com/images/songf.jpg" },
+        { "title": "Song G", "image": "https://example.com/images/songg.jpg" },
+        { "title": "Song H", "image": "https://example.com/images/songh.jpg" },
+        { "title": "Song I", "image": "https://example.com/images/songi.jpg" },
+        { "title": "Song J", "image": "https://example.com/images/songj.jpg" }
+      ]
+    },
+{
+      "name": "Rock Classics",
+      "image": "https://example.com/images/rock_classics.jpg",
+      "songs": [
+        { "title": "Song A", "image": "https://example.com/images/songa.jpg" },
+        { "title": "Song B", "image": "https://example.com/images/songb.jpg" },
+        { "title": "Song C", "image": "https://example.com/images/songc.jpg" },
+        { "title": "Song D", "image": "https://example.com/images/songd.jpg" },
+        { "title": "Song E", "image": "https://example.com/images/songe.jpg" },
+        { "title": "Song F", "image": "https://example.com/images/songf.jpg" },
+        { "title": "Song G", "image": "https://example.com/images/songg.jpg" },
+        { "title": "Song H", "image": "https://example.com/images/songh.jpg" },
+        { "title": "Song I", "image": "https://example.com/images/songi.jpg" },
+        { "title": "Song J", "image": "https://example.com/images/songj.jpg" }
+      ]
+    },
+  ]
 }
