@@ -6,7 +6,7 @@
   "playlists": [
     {
       "name": "Pop Hits",
-      "image": "https://example.com/images/pop_hits.jpg",
+      "image": "https://www.shutterstock.com/editorial/image-editorial/margot-robbie-14006684u",
       "songs": [
         { "title": "Song 1", "image": "https://example.com/images/song1.jpg" },
         { "title": "Song 2", "image": "https://example.com/images/song2.jpg" },
