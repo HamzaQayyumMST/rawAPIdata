@@ -1,71 +1,71 @@
 {
-  "name" :"Asad ullah",
+"name" :"Asad ullah",
 "email":"asadullah@gmail.com",
 "following":"158",
 "followers":"100"
   "playlists": [
     {
       "name": "Pop Hits",
-      "image": "https://unsplash.com/photos/xA1l7OCKL4Q",
+      "image": "https://unsplash.com/photos/aFETXR4zr94",
       "songs": [
-        { "title": "Song 1", "image": "https://example.com/images/song1.jpg" },
-        { "title": "Song 2", "image": "https://example.com/images/song2.jpg" },
-        { "title": "Song 3", "image": "https://example.com/images/song3.jpg" },
-        { "title": "Song 4", "image": "https://example.com/images/song4.jpg" },
-        { "title": "Song 5", "image": "https://example.com/images/song5.jpg" },
-        { "title": "Song 6", "image": "https://example.com/images/song6.jpg" },
-        { "title": "Song 7", "image": "https://example.com/images/song7.jpg" },
-        { "title": "Song 8", "image": "https://example.com/images/song8.jpg" },
-        { "title": "Song 9", "image": "https://example.com/images/song9.jpg" },
-        { "title": "Song 10", "image": "https://example.com/images/song10.jpg" }
+        { "title": "Song 1", "image": "https://unsplash.com/photos/plrlb68XPqI" },
+        { "title": "Song 2", "image": "https://unsplash.com/photos/plrlb68XPqI" },
+        { "title": "Song 3", "image": "https://unsplash.com/photos/plrlb68XPqI"  },
+        { "title": "Song 4", "image": "https://unsplash.com/photos/plrlb68XPqI"  },
+        { "title": "Song 5", "image": "https://unsplash.com/photos/plrlb68XPqI" },
+        { "title": "Song 6", "image": "https://unsplash.com/photos/plrlb68XPqI"  },
+        { "title": "Song 7", "image": "https://unsplash.com/photos/plrlb68XPqI"  },
+        { "title": "Song 8", "image": "https://unsplash.com/photos/plrlb68XPqI" },
+        { "title": "Song 9", "image": "https://unsplash.com/photos/plrlb68XPqI"  },
+        { "title": "Song 10", "image":"https://unsplash.com/photos/plrlb68XPqI"  }
       ]
     },
     {
       "name": "Rock Classics",
-      "image": "https://example.com/images/rock_classics.jpg",
+      "image": "https://unsplash.com/photos/9CMeMJHRRn4",
       "songs": [
-        { "title": "Song A", "image": "https://example.com/images/songa.jpg" },
-        { "title": "Song B", "image": "https://example.com/images/songb.jpg" },
-        { "title": "Song C", "image": "https://example.com/images/songc.jpg" },
-        { "title": "Song D", "image": "https://example.com/images/songd.jpg" },
-        { "title": "Song E", "image": "https://example.com/images/songe.jpg" },
-        { "title": "Song F", "image": "https://example.com/images/songf.jpg" },
-        { "title": "Song G", "image": "https://example.com/images/songg.jpg" },
-        { "title": "Song H", "image": "https://example.com/images/songh.jpg" },
-        { "title": "Song I", "image": "https://example.com/images/songi.jpg" },
-        { "title": "Song J", "image": "https://example.com/images/songj.jpg" }
+        { "title": "Song A", "image": https://unsplash.com/photos/bE3_aFt85Y8 },
+        { "title": "Song B", "image": https://unsplash.com/photos/bE3_aFt85Y8},
+        { "title": "Song C", "image": https://unsplash.com/photos/bE3_aFt85Y8},
+        { "title": "Song D", "image": https://unsplash.com/photos/bE3_aFt85Y8},
+        { "title": "Song E", "image": https://unsplash.com/photos/bE3_aFt85Y8},
+        { "title": "Song F", "image":https://unsplash.com/photos/bE3_aFt85Y8},
+        { "title": "Song G", "image": https://unsplash.com/photos/bE3_aFt85Y8 },
+        { "title": "Song H", "image": https://unsplash.com/photos/bE3_aFt85Y8 },
+        { "title": "Song I", "image": https://unsplash.com/photos/bE3_aFt85Y8 },
+        { "title": "Song J", "image": https://unsplash.com/photos/bE3_aFt85Y8 }
       ]
     },
 {
       "name": "Rock Classics",
-      "image": "https://example.com/images/rock_classics.jpg",
+      "image": "https://unsplash.com/photos/krmhTfAWwlk",
       "songs": [
-        { "title": "Song A", "image": "https://example.com/images/songa.jpg" },
-        { "title": "Song B", "image": "https://example.com/images/songb.jpg" },
-        { "title": "Song C", "image": "https://example.com/images/songc.jpg" },
-        { "title": "Song D", "image": "https://example.com/images/songd.jpg" },
-        { "title": "Song E", "image": "https://example.com/images/songe.jpg" },
-        { "title": "Song F", "image": "https://example.com/images/songf.jpg" },
-        { "title": "Song G", "image": "https://example.com/images/songg.jpg" },
-        { "title": "Song H", "image": "https://example.com/images/songh.jpg" },
-        { "title": "Song I", "image": "https://example.com/images/songi.jpg" },
-        { "title": "Song J", "image": "https://example.com/images/songj.jpg" }
+        { "title": "Song A", "image": "https://unsplash.com/photos/Pfa7Soh0euw" },
+        { "title": "Song B", "image":  "https://unsplash.com/photos/Pfa7Soh0euw"},
+        { "title": "Song C", "image":  "https://unsplash.com/photos/Pfa7Soh0euw" },
+        { "title": "Song D", "image":  "https://unsplash.com/photos/Pfa7Soh0euw" },
+        { "title": "Song E", "image":  "https://unsplash.com/photos/Pfa7Soh0euw" },
+        { "title": "Song F", "image":  "https://unsplash.com/photos/Pfa7Soh0euw" },
+        { "title": "Song G", "image":  "https://unsplash.com/photos/Pfa7Soh0euw" },
+        { "title": "Song H", "image":  "https://unsplash.com/photos/Pfa7Soh0euw" },
+        { "title": "Song I", "image":  "https://unsplash.com/photos/Pfa7Soh0euw" },
+        { "title": "Song J", "image":  "https://unsplash.com/photos/Pfa7Soh0euw" }
       ]
     },
 {
       "name": "Rock Classics",
-      "image": "https://example.com/images/rock_classics.jpg",
+      "image": "https://unsplash.com/photos/vbAEHCrvXZ0",
       "songs": [
-        { "title": "Song A", "image": "https://example.com/images/songa.jpg" },
-        { "title": "Song B", "image": "https://example.com/images/songb.jpg" },
-        { "title": "Song C", "image": "https://example.com/images/songc.jpg" },
-        { "title": "Song D", "image": "https://example.com/images/songd.jpg" },
-        { "title": "Song E", "image": "https://example.com/images/songe.jpg" },
-        { "title": "Song F", "image": "https://example.com/images/songf.jpg" },
-        { "title": "Song G", "image": "https://example.com/images/songg.jpg" },
-        { "title": "Song H", "image": "https://example.com/images/songh.jpg" },
-        { "title": "Song I", "image": "https://example.com/images/songi.jpg" },
-        { "title": "Song J", "image": "https://example.com/images/songj.jpg" }
+        { "title": "Song A", "image": "https://unsplash.com/photos/bmjGZMf0Rbo" },
+        { "title": "Song B", "image": "https://unsplash.com/photos/bmjGZMf0Rbo" },
+        { "title": "Song C", "image": "https://unsplash.com/photos/bmjGZMf0Rbo" },
+        { "title": "Song D", "image": "https://unsplash.com/photos/bmjGZMf0Rbo" },
+        { "title": "Song E", "image": "https://unsplash.com/photos/bmjGZMf0Rbo" },
+        { "title": "Song F", "image":"https://unsplash.com/photos/bmjGZMf0Rbo"},
+        { "title": "Song G", "image": "https://unsplash.com/photos/bmjGZMf0Rbo" },
+        { "title": "Song H", "image":"https://unsplash.com/photos/bmjGZMf0Rbo" },
+        { "title": "Song I", "image": "https://unsplash.com/photos/bmjGZMf0Rbo" },
+        { "title": "Song J", "image": "https://unsplash.com/photos/bmjGZMf0Rbo" }
       ]
     },
   ]
