@@ -2,7 +2,10 @@
 "name" :"Asad ullah",
 "email":"asadullah@gmail.com",
 "following":"158",
-"followers":"100"
+"followers":"100",
+"demo":{
+"string":"this is just a Demo",
+}
   "playlists": [
     {
       "name": "Pop Hits",
