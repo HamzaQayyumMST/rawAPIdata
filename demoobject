@@ -24,16 +24,16 @@
       "name": "Rock Classics",
       "image": "https://unsplash.com/photos/9CMeMJHRRn4",
       "songs": [
-        { "title": "Song A", "image": https://unsplash.com/photos/bE3_aFt85Y8" },
-        { "title": "Song B","image": https://unsplash.com/photos/bE3_aFt85Y8" },
-        { "title": "Song C","image": https://unsplash.com/photos/bE3_aFt85Y8" },
-        { "title": "Song D", "image": https://unsplash.com/photos/bE3_aFt85Y8" },
-        { "title": "Song E", "image": https://unsplash.com/photos/bE3_aFt85Y8" },
-        { "title": "Song F", "image": https://unsplash.com/photos/bE3_aFt85Y8" },
-        { "title": "Song G", "image": https://unsplash.com/photos/bE3_aFt85Y8" },
-        { "title": "Song H", "image": https://unsplash.com/photos/bE3_aFt85Y8"  },
-        { "title": "Song I","image": https://unsplash.com/photos/bE3_aFt85Y8" },
-        { "title": "Song J", "image": https://unsplash.com/photos/bE3_aFt85Y8"  }
+        { "title": "Song A", "image": "https://unsplash.com/photos/bE3_aFt85Y8" },
+        { "title": "Song B","image": "https://unsplash.com/photos/bE3_aFt85Y8" },
+        { "title": "Song C","image": "https://unsplash.com/photos/bE3_aFt85Y8" },
+        { "title": "Song D", "image": "https://unsplash.com/photos/bE3_aFt85Y8" },
+        { "title": "Song E", "image": "https://unsplash.com/photos/bE3_aFt85Y8" },
+        { "title": "Song F", "image": "https://unsplash.com/photos/bE3_aFt85Y8" },
+        { "title": "Song G", "image": "https://unsplash.com/photos/bE3_aFt85Y8" },
+        { "title": "Song H", "image": "https://unsplash.com/photos/bE3_aFt85Y8"  },
+        { "title": "Song I","image": "https://unsplash.com/photos/bE3_aFt85Y8" },
+        { "title": "Song J", "image": "https://unsplash.com/photos/bE3_aFt85Y8"  }
       ]
     },
 {
@@ -67,6 +67,6 @@
         { "title": "Song I", "image": "https://unsplash.com/photos/bmjGZMf0Rbo" },
         { "title": "Song J", "image": "https://unsplash.com/photos/bmjGZMf0Rbo" }
       ]
-    },
+    }
   ]
 }
